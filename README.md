@@ -3,8 +3,6 @@ Research based on ad-copy and image generation.
 
 By enhancing the contextual understanding of LLMs, AdFusion aim to create a model that better grasps the intent and tone of ad copy, resulting in images that are not just relevant but also creatively aligned with the message.
 
-The source code for this project is currently in Google Colabs and is under development, the rest of the source code on how to put the pretrained model into LaVi-Bridge and the contents of the research paper will be uploaded here by end of November.
-
 
 ## Fine Tuning
 
